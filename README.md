@@ -7,5 +7,7 @@ Sample
 
 *one star is italic*
 
-_underscores are also bold_
+__two underscores are also bold__
+
+_one underscore is italic_
 
